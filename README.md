@@ -1,3 +1,3 @@
-# How_to_Resize_Images_in_Folder
+# How_to_Prepare_Your_Images_Data_Set
  
-We will use Python for resize all of images in folder by using Pillow.
+1. 
